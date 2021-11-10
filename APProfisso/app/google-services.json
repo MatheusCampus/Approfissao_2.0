@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973305024213",
+    "project_id": "approfissao",
+    "storage_bucket": "approfissao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973305024213:android:250328beb15057e1dddc5c",
+        "android_client_info": {
+          "package_name": "com.example.approfisso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973305024213-50bkrn4mf6vb9uhsa31rp75n2sv2fug8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.approfisso",
+            "certificate_hash": "4ba35abc0b8bd3244da86ef4dc236557f4bdba6b"
+          }
+        },
+        {
+          "client_id": "973305024213-2cbp4art2ntb03ei8ien49iovgg1c7jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXqvEsBGmNLE4j_l8kWHEpOARvNB1z0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973305024213-2cbp4art2ntb03ei8ien49iovgg1c7jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

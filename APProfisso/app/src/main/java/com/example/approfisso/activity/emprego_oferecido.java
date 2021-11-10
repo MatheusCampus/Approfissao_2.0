@@ -1,5 +1,6 @@
 package com.example.approfisso.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
@@ -16,7 +17,12 @@ public class emprego_oferecido extends AppCompatActivity {
         setContentView(R.layout.emprego_oferecido);
     }
 
-    public void botao_retornar (View view){
+    public void botao_oferece(View view){
+        Intent it = new Intent(this, empresa_oferece.class);
+        startActivity(it);
+    }
+
+    public void botao_retornar_busca (View view){
         finish();
 
     }

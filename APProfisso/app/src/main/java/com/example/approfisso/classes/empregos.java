@@ -5,13 +5,18 @@ import java.io.Serializable;
 public class empregos implements Serializable {
 
     private String id;
-    private String nome;
-    private String padrao;
+    private String estado;
+    private String cidade;
+    private String periodo;
+    private String area_da_profissao;
+    int salario;
+    private String email;
 
     public empregos(String id) {this.id = id;}
 
     public  empregos(){
     }
+
 
     public String getId() {
         return id;
@@ -21,19 +26,51 @@ public class empregos implements Serializable {
         this.id = id;
     }
 
-    public String getNome() {
-        return nome;
+    public String getEstado() {
+        return estado;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setEstado(String estado) {
+        this.estado = estado;
     }
 
-    public String getPadrao() {
-        return padrao;
+    public String getCidade() {
+        return cidade;
     }
 
-    public void setPadrao(String padrao) {
-        this.padrao = padrao;
+    public void setCidade(String cidade) {
+        this.cidade = cidade;
+    }
+
+    public String getPeriodo() {
+        return periodo;
+    }
+
+    public void setPeriodo(String periodo) {
+        this.periodo = periodo;
+    }
+
+    public String getArea_da_profissao() {
+        return area_da_profissao;
+    }
+
+    public void setArea_da_profissao(String area_da_profissao) {
+        this.area_da_profissao = area_da_profissao;
+    }
+
+    public int getSalario() {
+        return salario;
+    }
+
+    public void setSalario(int salario) {
+        this.salario = salario;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
     }
 }

@@ -16,7 +16,7 @@ public class busca_menu extends AppCompatActivity {
         setContentView(R.layout.busca_menu);
     }
 
-    public void botao_retornar (View view){
+    public void botao_retornar_busca(View view){
         finish();
 
     }
