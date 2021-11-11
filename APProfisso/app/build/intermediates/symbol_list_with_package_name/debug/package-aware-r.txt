@@ -1874,12 +1874,13 @@ id baseline
 id beginOnFirstDraw
 id beginning
 id blocking
+id botao_buscar
+id botao_salvar
 id bottom
 id bounce
 id button
 id button10
 id button2
-id button4
 id button5
 id button6
 id button7
@@ -2003,10 +2004,10 @@ id light
 id line1
 id line3
 id linear
-id linearLayout
-id linearLayout2
 id listMode
 id list_item
+id lista_emprego_buscado
+id lista_emprego_oferecido
 id masked
 id material_clock_display
 id material_clock_face
