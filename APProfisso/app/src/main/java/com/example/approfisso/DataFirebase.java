@@ -12,7 +12,7 @@ public class DataFirebase {
    private static DatabaseReference databaseReference;
     private static void inicio(){
         firebaseDatabase= FirebaseDatabase.getInstance();
-        firebaseDatabase.setPersistenceEnabled(true);
+     //   firebaseDatabase.setPersistenceEnabled(true);
         databaseReference= firebaseDatabase.getReference();
     }
 

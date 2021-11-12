@@ -70,5 +70,9 @@
     {
         "merged": "C:\\Users\\laboratorio\\Desktop\\telas\\APProfisso\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\laboratorio\\Desktop\\telas\\APProfisso\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\laboratorio\\Desktop\\telas\\APProfisso\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\laboratorio\\Desktop\\telas\\APProfisso\\app\\src\\main\\res\\layout\\activity_login.xml"
     }
 ]

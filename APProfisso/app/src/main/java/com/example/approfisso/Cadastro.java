@@ -29,7 +29,7 @@ public class Cadastro extends AppCompatActivity {
         Salario=findViewById(R.id.TextOfereceSalario);
         Email=findViewById(R.id.TextOfereceEmail);
         Intent i = getIntent();
-        Emprego= (empregos) i.getSerializableExtra("Pessoa");
+        Emprego= (empregos) i.getSerializableExtra("Emprego");
     }
     public  void salvar(View view){
         Emprego.setEstado(Estado.getText().toString());
