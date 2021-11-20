@@ -15,7 +15,7 @@ import java.util.List;
 
 public class empregos implements Serializable {
 
-    private Integer id;
+    private String id;
     private String Estado;
     private String Cidade;
     private String Periodo;
@@ -23,19 +23,17 @@ public class empregos implements Serializable {
     private String Salario;
     private String Email;
 
-    public empregos(Integer id) {
-        this.id = id;
-    }
+
 
     public empregos(){
 
     }
 
-    public Integer getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -92,11 +90,10 @@ public class empregos implements Serializable {
 
     @Override
     public String toString() {
-        return "Pessoa{" +
-                "id=" + id +
-                ", nome='" + Area_da_profissao + '\'' +
-                ", salario='" + Salario + '\'' +
-                '}';
+        return  ", estado='" + Estado + '\'' +
+                ", cidade='" + Cidade + '\'' +
+                ", emprego='" + Area_da_profissao + '\'' +
+                ", salario='" + Salario + '\'' + '}';
     }
 
 
@@ -115,35 +112,16 @@ public class empregos implements Serializable {
     public static void salvar(empregos e){
         if(databaseReference==null){
             inicio();
+            String id=databaseReference.child("Emprego").push().getKey();
             List<empregos> empregos = new ArrayList();
-            databaseReference.addValueEventListener(new ValueEventListener() {
-                @Override
-                public void onDataChange(@NonNull DataSnapshot snapshot) {
-                    DataSnapshot dataSnapshot = snapshot.child("emprego");
-                    empregos.clear();
-                    for (DataSnapshot postSnapshot : dataSnapshot.getChildren()) {
-                        empregos servico = postSnapshot.getValue(empregos.class);
-                        empregos.add(servico);
-                    }
-
-                   /*
-                   String id = (Integer.parseInt(empregos.get(empregos.size()-1).getId())+1)+"";
+            e.setId(id);
+                    databaseReference.child("Emprego").child(id).child("id").setValue(id);
                     databaseReference.child("Emprego").child(id).child("Cidade").setValue(e.getCidade());
                     databaseReference.child("Emprego").child(id).child("Email").setValue(e.getEmail());
                     databaseReference.child("Emprego").child(id).child("Estado").setValue(e.getEstado());
                     databaseReference.child("Emprego").child(id).child("Periodo").setValue(e.getPeriodo());
                     databaseReference.child("Emprego").child(id).child("Profissao").setValue(e.getArea_da_profissao());
                     databaseReference.child("Emprego").child(id).child("salario").setValue(e.getSalario());
-
-                    */
-                }
-
-                @Override
-                public void onCancelled(@NonNull DatabaseError error) {
-
-                }
-            });
-
 
         }
     }

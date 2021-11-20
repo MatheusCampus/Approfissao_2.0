@@ -69,6 +69,7 @@ public class empresa_oferece extends AppCompatActivity {
     }
 
     public void botao_Salvar (View view){
+       Emprego = new empregos();
         Emprego.setEstado(Estado.getText().toString());
         Emprego.setCidade(Cidade.getText().toString());
         Emprego.setPeriodo(Periodo.getText().toString());
@@ -77,6 +78,8 @@ public class empresa_oferece extends AppCompatActivity {
         Emprego.setEmail(Email.getText().toString());
         empregos.salvar(Emprego);
         onBackPressed();
+
+
     }
 
 }

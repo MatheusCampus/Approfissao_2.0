@@ -25,13 +25,13 @@ public class DataFirebase {
     public static void salvar(empregos empregos){
         if(databaseReference==null)
             inicio();
-        databaseReference.child("Pessoa").child(
+        databaseReference.child("Emprego").child(
                 empregos.getId().toString()
-        ).child("nome").setValue(empregos.getArea_da_profissao());
+        ).child("Profissao").setValue(empregos.getArea_da_profissao());
     }
     public void remover(empregos empregos){
 
-        databaseReference.child("Pessoa").child(empregos.getId()+"").removeValue();
+        databaseReference.child("Emprego").child(empregos.getId()+"").removeValue();
     }
 
 

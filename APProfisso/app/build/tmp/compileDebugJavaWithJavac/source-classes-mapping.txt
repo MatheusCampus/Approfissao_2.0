@@ -4,7 +4,6 @@ com/example/approfisso/BuildConfig.java
  com.example.approfisso.BuildConfig
 com/example/approfisso/classes/empregos.java
  com.example.approfisso.classes.empregos
- com.example.approfisso.classes.empregos$1
 com/example/approfisso/Cadastro.java
  com.example.approfisso.Cadastro
 com/example/approfisso/DataFirebase.java

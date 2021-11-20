@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\5655b79ed6f338eef02b538004d00182\transformed\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\laboratorio\.gradle\caches\transforms-3\3cc2e7598e5612bf4117808d625a3e97\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\laboratorio\.gradle\caches\transforms-3\8a38102763b4d2234eea9a9e3bcfaff7\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
@@ -68,25 +68,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\laboratorio\.gra
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\ecddd5db9dfc3f24be05ad0438cc3036\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\e39f6c86b819c562471cedd58059ec41\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\2e3e6ec719588b7578027ea5cc407a50\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:5:5-44:19
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:5:5-44:19
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\5655b79ed6f338eef02b538004d00182\transformed\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\5655b79ed6f338eef02b538004d00182\transformed\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\laboratorio\.gradle\caches\transforms-3\3cc2e7598e5612bf4117808d625a3e97\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
@@ -136,61 +136,61 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\la
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.5.0] C:\Users\laboratorio\.gradle\caches\transforms-3\b20d70b14f15690cac145ca1871d3078\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:11:9-49
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:11:9-49
 activity#com.example.approfisso.activity.empresa_oferece
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:14:9-71
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:14:9-71
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:14:19-59
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:14:19-59
 activity#com.example.approfisso.activity.busca_menu
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:15:9-66
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:15:9-66
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:15:19-54
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:15:19-54
 activity#com.example.approfisso.activity.emprego_oferecido
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:16:9-73
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:16:9-73
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:16:19-61
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:16:19-61
 activity#com.example.approfisso.Login
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:20:9-22:48
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:20:9-22:48
 	android:exported
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:22:13-36
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:21:13-34
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:21:13-34
 activity#com.example.approfisso.Cadastro
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:23:9-25:39
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:25:13-36
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:24:13-37
 activity#com.example.approfisso.activity.MainActivity
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:26:9-36:20
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:26:9-36:20
 	android:exported
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:28:13-36
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:28:13-36
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:27:13-50
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:27:13-50
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:30:9-34:25
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:30:9-34:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:31:13-65
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:31:13-65
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:31:21-62
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:31:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:33:13-73
+ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:33:13-73
 	android:name
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml:33:23-70
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml:33:23-70
 uses-sdk
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\5655b79ed6f338eef02b538004d00182\transformed\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:20.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\5655b79ed6f338eef02b538004d00182\transformed\jetified-firebase-analytics-20.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\laboratorio\.gradle\caches\transforms-3\3cc2e7598e5612bf4117808d625a3e97\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
@@ -319,16 +319,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\laboratorio\.gradle\caches\tra
 MERGED from [androidx.print:print:1.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\e39f6c86b819c562471cedd58059ec41\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\2e3e6ec719588b7578027ea5cc407a50\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\laboratorio\.gradle\caches\transforms-3\2e3e6ec719588b7578027ea5cc407a50\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\laboratorio\Desktop\telas\APProfisso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\laboratorio\Desktop\Approfissao_2.0-main\Approfissao_2.0-main\APProfisso\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:20.0.2] C:\Users\laboratorio\.gradle\caches\transforms-3\3c22fd6ccce70ccbc0997e4d20da8d1c\transformed\jetified-firebase-database-20.0.2\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\laboratorio\.gradle\caches\transforms-3\959f288c9642ddb64ff8e14545fb67dd\transformed\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79

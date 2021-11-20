@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\laboratorio\\Desktop\\telas\\APProfisso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+            "outputFile": "C:\\Users\\laboratorio\\Desktop\\Approfissao_2.0-main\\Approfissao_2.0-main\\APProfisso\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\laboratorio\\.gradle\\caches\\transforms-3\\f40d2a08a355d250ec336f9cb211375c\\transformed\\jetified-play-services-basement-17.1.0\\res\\values-th\\values.xml",

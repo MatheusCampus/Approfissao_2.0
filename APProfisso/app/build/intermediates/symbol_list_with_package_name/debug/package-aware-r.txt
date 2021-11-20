@@ -1891,7 +1891,6 @@ id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
 id button
-id button10
 id button2
 id button5
 id button6
