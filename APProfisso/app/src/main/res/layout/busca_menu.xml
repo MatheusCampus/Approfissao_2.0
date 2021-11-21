@@ -85,13 +85,17 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/lista_emprego_buscado"
-        android:layout_width="377dp"
-        android:layout_height="361dp"
+        android:layout_width="383dp"
+        android:layout_height="249dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="18dp"
+        android:layout_marginBottom="19dp"
+        app:layout_constraintBottom_toTopOf="@+id/botao_buscar"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.666"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/TextBuscaCidade" />
+        app:layout_constraintTop_toBottomOf="@+id/TextBuscaCidade"
+        app:layout_constraintVertical_bias="0.366" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
