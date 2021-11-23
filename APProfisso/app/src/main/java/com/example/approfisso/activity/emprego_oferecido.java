@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ListView;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -23,18 +24,26 @@ import java.util.List;
 import com.example.approfisso.classes.empregos;
 
 
+
 public class emprego_oferecido extends AppCompatActivity {
 
     DatabaseReference databaseReference;
     private RecyclerView recyclerView;
     private LinearLayoutManager linearLayoutManager;
 
+//    private List<empregos> dados;
+//
+//    private ListView lista;
+
+    DataFirebase db;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.emprego_oferecido);
 
+
+//        lista= findViewById(R.id.lista_emprego_oferecido);
 
         //recycle view
         recyclerView=findViewById(R.id.lista_emprego_oferecido);
@@ -50,38 +59,30 @@ public class emprego_oferecido extends AppCompatActivity {
         listar();
 
 
-//        empregosAdapter.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+//        lista.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 //            @Override
 //            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
 //                Intent it = new Intent(getApplicationContext(),empregos.class);
 //                //it.putExtra("Produto", (Produto)Dados.getLista().get(i));
-//                it.putExtra("Produto", dados.get(i));
+//                it.putExtra("empregos", dados.get(i));
 //
 //                // Produto o=(Produto)Dados.getLista().get(i);
 //               /* it.putExtra("nome",o.getNome());
 //                it.putExtra("quatidade",o.getQuantidade());*/
-//                startActivityForResult(it,201);
+//
 //            }
 //        });
-
-//        .setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
+//
+//        lista.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener() {
 //            @Override
 //            public boolean onItemLongClick(AdapterView<?> adapterView, View view, int i, long l) {
+//
+//                db.remover(dados.get(i));
+//
 //
 //                return true;
 //            }
 //        });
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
     }
 
     List<empregos> Empregos;

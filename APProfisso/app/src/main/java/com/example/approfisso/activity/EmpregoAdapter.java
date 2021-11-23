@@ -3,9 +3,9 @@ package com.example.approfisso.activity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
+
 import android.widget.TextView;
-import android.widget.Toast;
+
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -36,8 +36,10 @@ public class EmpregoAdapter extends RecyclerView.Adapter<EmpregoAdapter.empregos
     public void onBindViewHolder(@NonNull empregosHolder trabalhoViewHolder, int i) {
         empregos trabaio = dados.get(i);
         trabalhoViewHolder.nomeProfissao.setText(trabaio.getArea_da_profissao());
-        trabalhoViewHolder.nomeCidade.setText(trabaio.getArea_da_profissao());
-        trabalhoViewHolder.nomeSalario.setText(trabaio.getArea_da_profissao());
+        trabalhoViewHolder.nomeCidade.setText(trabaio.getCidade());
+        trabalhoViewHolder.nomeSalario.setText(trabaio.getSalario());
+        trabalhoViewHolder.nomeEmail.setText(trabaio.getEmail());
+        trabalhoViewHolder.nomePeriodo.setText(trabaio.getPeriodo());
     }
     @Override
     public int getItemCount() {
@@ -47,12 +49,16 @@ public class EmpregoAdapter extends RecyclerView.Adapter<EmpregoAdapter.empregos
         private TextView nomeProfissao;
         private TextView nomeCidade;
         private TextView nomeSalario;
+        private TextView nomeEmail;
+        private TextView nomePeriodo;
 
         public empregosHolder(@NonNull View itemView) {
             super(itemView);
             nomeProfissao=itemView.findViewById(R.id.nomeItemLinha);
             nomeCidade=itemView.findViewById(R.id.nomeItemLinha2);
             nomeSalario=itemView.findViewById(R.id.nomeItemLinha3);
+            nomeEmail=itemView.findViewById(R.id.nomeItemLinha4);
+            nomePeriodo=itemView.findViewById(R.id.nomeItemLinha5);
 
         }
     }

@@ -1,14 +1,14 @@
-#Sun Nov 21 15:39:34 AMT 2021
+#Tue Nov 23 18:27:02 AMT 2021
 path.4=6/classes.dex
 path.3=11/classes.dex
 path.2=10/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.4=C\:\\Users\\Matheus\\Desktop\\recicleview firebase\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
-base.3=C\:\\Users\\Matheus\\Desktop\\recicleview firebase\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.2=C\:\\Users\\Matheus\\Desktop\\recicleview firebase\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
-base.1=C\:\\Users\\Matheus\\Desktop\\recicleview firebase\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.0=C\:\\Users\\Matheus\\Desktop\\recicleview firebase\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=C\:\\Users\\laboratorio\\Desktop\\APProfissao-aff1947056a2ed4f0cb62a79a08f1c86ac59c754\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.3=C\:\\Users\\laboratorio\\Desktop\\APProfissao-aff1947056a2ed4f0cb62a79a08f1c86ac59c754\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.2=C\:\\Users\\laboratorio\\Desktop\\APProfissao-aff1947056a2ed4f0cb62a79a08f1c86ac59c754\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
+base.1=C\:\\Users\\laboratorio\\Desktop\\APProfissao-aff1947056a2ed4f0cb62a79a08f1c86ac59c754\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\laboratorio\\Desktop\\APProfissao-aff1947056a2ed4f0cb62a79a08f1c86ac59c754\\APProfisso\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

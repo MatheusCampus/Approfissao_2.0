@@ -32,6 +32,7 @@ public class DataFirebase {
     public void remover(empregos empregos){
 
         databaseReference.child("Emprego").child(empregos.getId()+"").removeValue();
+
     }
 
 
